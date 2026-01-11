@@ -27,7 +27,7 @@
 
 ### Диаграмма сущность-связь (ER Diagram)
 
-![ER Diagram](docs\ER_Diagram.png)
+![ER Diagram](docs/ER_Diagram.png)
 
 **Ключевые сущности:**
 
