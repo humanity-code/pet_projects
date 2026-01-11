@@ -27,7 +27,7 @@
 
 ### Диаграмма сущность-связь (ER Diagram)
 
-![ER Diagram](C:\Users\Михаил\Documents\DBeaver_projects\food_delivery_db\docs\ER_Diagram.png)
+![ER Diagram](project_3\docs\ER_Diagram.png)
 
 **Ключевые сущности:**
 
